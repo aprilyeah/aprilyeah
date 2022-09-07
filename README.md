@@ -42,24 +42,6 @@ Hope you enjoy your stay! 🥰
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilyeah&theme=default&layout=compact" />
 </a>
 
-# My Projects 🖥
-
-## Table of Contents
-1. [Front-End Projects](#front-end-projects)
-2. [Python Projects](#python-projects)
-
-
-## Front End Projects
-1. [ACNH Villagers](https://github.com/aprilyeah/ACNH-Villagers) 
-  * Development Technologies
-    * React
-    * TypeScript
-    * REST APIs
-    * Material UI
-
-## Python Projects
-* Coming soon 👀
-
 
 <!---
 aprilyeah/aprilyeah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
