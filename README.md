@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, design and marketing :)
 - 🌱 I’m currently learning how to create interactive apps using React, JS, and TS.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: Flick me a message on LinkedIn https://www.linkedin.com/in/aprilchen64/ 
+- 📫 How to reach me: Flick me a message on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aprilchen64/)
 
 <!---
 aprilyeah/aprilyeah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
