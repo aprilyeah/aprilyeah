@@ -43,6 +43,8 @@ Hope you enjoy your stay! 🥰
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilyeah&theme=default&layout=compact" />
 </a>
 
+Note: I did just create this Github account. 
+
 
 <!---
 aprilyeah/aprilyeah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
