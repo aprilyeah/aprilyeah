@@ -46,7 +46,7 @@ Hope you enjoy your stay! 🥰
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aprilyeah" alt="WakaTime" /> -->
 </a>
 
-Note: I did just create this Github account. 
+Note: I recently created this Github account. 
 
 
 <!---
