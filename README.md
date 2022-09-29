@@ -39,8 +39,11 @@ Hope you enjoy your stay! 🥰
 
 # My Stats 📊
 <a href="https://github.com/aprilyeah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aprilyeah&theme=default&show_icons=true" />
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aprilyeah&theme=default&show_icons=true" /> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aprilyeah" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilyeah&theme=default&layout=compact" />
+  <!-- <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aprilyeah" alt="WakaTime" /> -->
 </a>
 
 Note: I did just create this Github account. 
